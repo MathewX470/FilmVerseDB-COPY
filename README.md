@@ -23,8 +23,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MathewX470/FilmVerseDB.git
-cd FilmVerseDB
+git clone https://github.com/MathewX470/FilmVerseDB-COPY.git
+cd FilmVerseDB-COPY
 ```
 
 ### 2. Access the app
