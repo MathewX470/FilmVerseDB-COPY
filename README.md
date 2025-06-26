@@ -5,7 +5,7 @@
 ## 🚀 Features
 
 - 📊 **Detailed Info** – See ratings, release dates, plot summaries, cast & crew.
-- ⭐ **Personal Rating/Review** – Log your own ratings.
+- ⭐ **Personal Review** – Log your own reviews.
 - 🎥 **Watchlist Management** – Add to, remove from, and view your watchlist.
 - 🎨 **Responsive UI** – Works great on desktop, tablet, and mobile.
 - 🌐 **Rich API Integration** – Uses TMDb API for up-to-date film data.
