@@ -1,4 +1,4 @@
-# 🎮 FilmVerse
+# 🎥 FilmVerse
 
 **FilmVerse** is a full-featured movie and TV show database explorer. Dive into film metadata, search, filter, and discover new titles through a sleek, intuitive interface powered by modern technologies.
 
